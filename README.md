@@ -22,4 +22,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-sudo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img align="left" height="50" width="50" src="https://i.gifer.com/3EqV.gif"></img>
-  
